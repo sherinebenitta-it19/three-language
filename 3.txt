@@ -1,0 +1,20 @@
+python:
+
+print("hello");
+
+c++:
+
+#include<iostream>
+void main()
+{
+cout<<"hello";
+}
+
+c:
+
+#include<stdio.h>
+int main()
+{
+printf("sherine");
+return 0;
+}
